@@ -7,4 +7,4 @@ How to Run:
 
 2) Run "SDP_Julia_JuMP.jl" to solve the SDP.
 
-3) Run "Main_Plot" to plot the polynomial solution of the SDP (i.e., polynomial indicator function)
+3) Run "Main_Plot.m" to plot the polynomial solution of the SDP (i.e., polynomial indicator function)
